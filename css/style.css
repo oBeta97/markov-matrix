@@ -29,3 +29,8 @@ tbody tr:last-child td {
 tbody tr:hover {
   background-color: #f9fafb;
 }
+
+.chart-container {
+  max-width: 950px;
+  margin: 2.5rem auto;
+}
